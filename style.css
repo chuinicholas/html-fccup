@@ -1,0 +1,24 @@
+
+body {
+    background-color: #FAEED1;
+}
+
+h1 {
+    color: #607274;
+    background-color: #B2A59B;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+}
+
+h2 {
+    color: #092635;
+    font-family: 'Anton', sans-serif;
+}
+
+h3 {
+    font-family: 'Single Day', cursive;
+}
+
+li {
+    font-family: 'Single Day', cursive;
+}
